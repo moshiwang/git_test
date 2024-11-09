@@ -5,7 +5,7 @@ int main()
 {
 	if (ture)
 	{
-		cout << "gitÊµÑé" << endl;
+		cout << "gitÊµï¿½ï¿½" << endl;
 	}
 	
 }
