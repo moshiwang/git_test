@@ -5,7 +5,9 @@ int main()
 {
 	if (ture)
 	{
-		cout << "gitʵ��" << endl;
+		cout << "hello git" << endl;
 	}
+
+	return 0;
 	
 }
