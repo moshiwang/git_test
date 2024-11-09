@@ -5,7 +5,7 @@ int main()
 {
 	if (ture)
 	{
-		cout << "git实验" << endl;
+		cout << "我听说git" << endl;
 	}
 	
 }
