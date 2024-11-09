@@ -3,5 +3,9 @@ using namespace std;
 
 int main()
 {
-	cout << "git实验" << endl;
+	if (ture)
+	{
+		cout << "git实验" << endl;
+	}
+	
 }
